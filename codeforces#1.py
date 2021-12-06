@@ -1,3 +1,7 @@
+#!python3
+#author: thom0075
+#YouTube channel: https://www.youtube.com/channel/UCDSmCUDI_hx09nOqKcakmKQ
+
 peso = int(input("Inserisci peso: "))  # l`utente inserisce il peso del frutto
 
 
