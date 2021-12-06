@@ -1,0 +1,12 @@
+#!python3
+#author: thom0075
+#created on 06/12/2021
+
+x = int(input("Insert number: "))
+i=2
+while i <= x:
+    if x % i == 0:
+        print(i)
+        x = x/i
+    else:
+        i += 1
